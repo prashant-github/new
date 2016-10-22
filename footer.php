@@ -13,13 +13,13 @@
                         <li><a href="#" class="social-sprites youtube-sprite"></a></li>
                     </ul>
                 </div>
-                <div class="footer-links">
+               <!--  <div class="footer-links">
                     <ul>
                         <li><a href="#">ABOUT US</a></li>
                         <li><a href="#">PROGRAMMS</a></li>
                         <li><a href="#">CONTACT US</a></li>
                     </ul>
-                </div>
+                </div> -->
                 <p class="copyright">&COPY; Fieldtrip Inc Pvt Ltd.</p>
             </div>
         </div>
